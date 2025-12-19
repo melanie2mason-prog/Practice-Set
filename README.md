@@ -71,7 +71,7 @@ An example of the starter code can be found at the bottom of this document. The 
 
 ### Key Concepts 
 
-- HTML: Use of <header>, <section>, <footer>, and structured <div> elements to organize content 
+- HTML: Use of header, section, footer, and structured div elements to organize content 
 
 - Responsive design: Tailwind’s grid utilities enable layouts that adapt across different screens 
 
